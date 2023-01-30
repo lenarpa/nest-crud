@@ -1,0 +1,22 @@
+{
+  "name": "@lenarpa/nest-crud",
+  "version": "1.0.0",
+  "description": "helper for nestJs",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/lenarpa"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenarpa/nest-crud.git"
+  },
+  "author": "lenarpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenarpa/nest-crud/issues"
+  },
+  "homepage": "https://github.com/lenarpa/nest-crud#readme"
+}
